@@ -20,7 +20,7 @@ public class EmployeeController {
 		
 		boolean b=services.saveEmployee(employee);
 		System.out.println(b);
-		
+		System.out.println(b);
 		return b;
 		
 	}
