@@ -1,6 +1,9 @@
 Manifest-Version: 1.0
-Build-Jdk-Spec: 16
 Implementation-Title: SpringBoot
 Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: LENOVO
+Implementation-Vendor-Id: com.jbk
+Build-Jdk: 1.8.0_301
+Implementation-URL: https://spring.io/projects/spring-boot/SpringBoot
 Created-By: Maven Integration for Eclipse
 
